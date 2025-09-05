@@ -29,3 +29,5 @@ Bei Modul 431 bin ich auch sehr weit gekommen jedoch habe ich ausversehen eine m
 1. Heute würde ich gerne an den Moodle Aufträgen arbeiten.
 2. Ich will heute auch noch den gelöschten auftrag wiederholen.
 #### Tagesreflexion
+Heute habe ich den gelöschten Auftrag gelöst und auch an anderen Moodle Aufgaben gearbeitet
+Bei Git hab habe ich auch gearbeitet.
