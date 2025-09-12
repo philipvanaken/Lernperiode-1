@@ -35,4 +35,4 @@ Bei Github habe ich auch gearbeitet.
 1. Heute würde ich sehr gerne einen Auftrag bie Modul 319 lösen
 2. Bei Modul 431 will ich noch einen Auftrag fertig machen
 #### Tagesreflexion
-
+Ich habe heute die Aufträge gelösst die ich lösen wollte aber bei 431 brauchte ich noch ein bischen hilfe.
