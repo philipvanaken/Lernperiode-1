@@ -31,3 +31,8 @@ Bei Modul 431 bin ich auch sehr weit gekommen jedoch habe ich ausversehen eine m
 #### Tagesreflexion
 Heute habe ich den gelöschten Auftrag gelöst und auch an anderen Moodle Aufgaben gearbeitet.
 Bei Github habe ich auch gearbeitet.
+### 12.09.2025
+1. Heute würde ich sehr gerne einen Auftrag bie Modul 319 lösen
+2. Bei Modul 431 will ich noch einen Auftrag fertig machen
+#### Tagesreflexion
+
