@@ -40,3 +40,4 @@ Ich habe heute die Aufträge gelösst die ich lösen wollte aber bei 431 braucht
 1. Ein Video will ich heute für einen Auftrag erstellen.
 2. Einen Auftrag nachholen.
 #### Tagesreflexion
+Die Aufträge hab ich gemacht aber das video muss ich noch nachholen.
