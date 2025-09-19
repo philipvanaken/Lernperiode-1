@@ -36,3 +36,7 @@ Bei Github habe ich auch gearbeitet.
 2. Bei Modul 431 will ich noch einen Auftrag fertig machen
 #### Tagesreflexion
 Ich habe heute die Aufträge gelösst die ich lösen wollte aber bei 431 brauchte ich noch ein bischen hilfe.
+### 19.09.2025
+1. Ein Video will ich heute für einen Auftrag erstellen.
+2. Einen Auftrag nachholen.
+#### Tagesreflexion
