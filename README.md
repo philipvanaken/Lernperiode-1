@@ -41,3 +41,8 @@ Ich habe heute die Aufträge gelösst die ich lösen wollte aber bei 431 braucht
 2. Einen Auftrag nachholen.
 #### Tagesreflexion
 Die Aufträge hab ich gemacht aber das video muss ich noch nachholen.
+### 26.09.2025
+Ich möchte 2 aufträge erledigen.
+#### Tagesrefexion
+Heute war ich krank und konnte deswegen nur einen Auftrag erledigen.
+Den anderen Auftrag werde ich zuhause wahrscheinlich nachholen.
