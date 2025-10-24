@@ -1,6 +1,6 @@
 # Lernperiode-1
 Philip van Aken
-{22.08.2025} bis {26.09.2025}
+{24.10.2025} bis {19.10.2025}
 ## Grob-planung
 ### Noten
 - Im unterricht hatten wir bisher nur kleine Moodletests.
@@ -9,8 +9,8 @@ Philip van Aken
 ### Projekte / neue Technologien
 - Ich würde gerne ein kleines Game coden.
 ### Generelle Ziele
-- modul 431 abschliessen
-- OBA erstellen
-- Auf Tests vorbereiten
-- neue coding skills leernen
-
+1 modul 431 abschliessen
+2 OBA erstellen
+3 Auf Tests vorbereiten
+4 neue coding skills leernen
+## Fein-Planung
