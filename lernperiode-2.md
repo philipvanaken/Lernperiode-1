@@ -1,6 +1,6 @@
-# Lernperiode-1
+# Lernperiode-2
 Philip van Aken
-{24.10.2025} bis {19.10.2025}
+{24.10.2025} bis {19.12.2025}
 ## Grob-planung
 ### Noten
 - Im unterricht hatten wir bisher nur kleine Moodletests.
@@ -14,3 +14,4 @@ Philip van Aken
 3 Auf Tests vorbereiten
 4 neue coding skills leernen
 ## Fein-Planung
+### 24.10.2025
