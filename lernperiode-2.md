@@ -15,3 +15,7 @@ Philip van Aken
 4 neue coding skills leernen
 ## Fein-Planung
 ### 24.10.2025
+1 modul 431 abschliessen
+2 bei modul 431 expertenziele machen
+3 mit meinem OBA anfangen
+#### Tagesreflexion
