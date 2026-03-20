@@ -1,6 +1,6 @@
-# Lernperiode-2
+# Lernperiode-3
 Philip van Aken
-{24.10.2025} bis {19.12.2025}
+{05.01.2026} bis {30.01.2026}
 ## Grob-planung
 ### Noten
 - Im unterricht hatten wir bisher nur kleine Moodletests.
@@ -14,8 +14,10 @@ Philip van Aken
 3 Auf Tests vorbereiten
 4 neue coding skills leernen
 ## Fein-Planung
-### 24.10.2025
-1 modul 431 abschliessen
-2 bei modul 431 expertenziele machen
-3 mit meinem OBA anfangen
+### 20.032026
+1 Unity Arbeiten
+2 3D lernen
+3 2D lernen
 #### Tagesreflexion
+Ich habe heute mit Unity 2Toutorials abgeschlossen. Dabei habe ich die bearbeitungs Elemente kennengelernt und wie man sich auf der APP zurechtfindet .
+
